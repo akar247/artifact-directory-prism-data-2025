@@ -1,6 +1,6 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/akar247/artifact-directory-prism-data-2025",
+    "project-repository": "https://github.com/danielrmathew/prism-data-credit",
+    "project-website-url": "https://danielrmathew.github.io/prism-data-credit",
+    "project-website-code": "https://github.com/danielrmathew/prism-data-credit"
 }
