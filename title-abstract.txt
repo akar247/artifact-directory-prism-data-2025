@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Building Better Credit Scores: Machine Learning and NLP for Optimized Risk Assessment
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Credit scores are pivotal in today’s financial landscape, influencing everything from rental eligibility to access to health insurance, yet the formula for calculating creditworthiness has long been shrouded in mystery and often overlooks important nuances. Typically, the credit score is determined based on factors such as payment history and credit length, disadvantaging individuals with limited credit histories—especially young adults, recent immigrants, and those without access to traditional credit products. To address these limitations, we propose the Cash Score, a probability-based model that predicts the likelihood of credit delinquency using detailed bank transaction data. By analyzing income patterns, spending behavior, and account activity, the Cash Score provides a more dynamic and inclusive assessment of financial responsibility. This report details our approach, methodology, and findings, highlighting the potential for transaction-based credit evaluation to complement or even improve upon traditional credit scoring methods.
